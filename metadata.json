@@ -1,0 +1,6 @@
+{
+  "name": "SubPulse - Subscription & Recurring Expense Tracker",
+  "description": "Production-ready Micro-SaaS for automated recurring subscription tracking, renewal alerts via Resend, spend analytics, and multi-tenant isolation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
