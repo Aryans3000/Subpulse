@@ -13,3 +13,6 @@ Vibe Coded
 ​Smart Categorization & Insights: Group expenses by category (AI, Work, Media, Utilities) and payment methods to identify hidden software inflation.
 ​Custom Billing Schedules: Support for monthly, quarterly, annual, and custom recurring payment cycles.
 ​Modern, Responsive UI: Built for rapid navigation and effortless tracking across desktop and mobile devices.
+
+​🛠️ Tech Stack
+​Frontend: React 
