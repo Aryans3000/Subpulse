@@ -4,6 +4,8 @@ SubPulse 💓
 
 License: MIT
 
+Live Demo: https://ai.studio/apps/eb6e2936-8a47-4765-8e98-788980dc39f2
+
 Vibe Coded
 ​SubPulse keeps a constant pulse on your recurring expenses. It’s an automated micro-SaaS dashboard designed to track, organize, and manage all your software subscriptions, memberships, and recurring costs in one unified place—sending proactive email notifications before you get charged.
 
